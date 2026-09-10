@@ -2,35 +2,70 @@
 
 ### Junior Data Scientist | Python | SQL | Machine Learning
 
-I'm currently studying **Data Science & Machine Learning** and building my skills in data analysis, machine learning and Python.
+I'm currently studying **Data Science & Machine Learning**, focusing on
+data analysis, machine learning and practical work with Python.
 
-I have a previous engineering background, which gave me strong analytical thinking, attention to detail and experience working with technical information.
+With a previous engineering background, I bring strong analytical thinking,
+attention to detail and experience working with technical information.
 
-### 🛠 Tech Stack
+---
 
-- Python
-- SQL
-- Pandas
-- NumPy
-- Scikit-learn
-- Machine Learning
-- Data Analysis
-- Git
-- MongoDB
-- Docker
+## 🛠 Tech Stack
 
-### 📚 Currently Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-- Machine Learning
+---
+
+## 🧠 Data Science & ML
+
+- Exploratory Data Analysis (EDA)
+- Data preprocessing & visualization
+- Supervised & Unsupervised Learning
+- Classification & Model Evaluation
+- Recommendation Systems
 - Deep Learning
 - Neural Networks
-- NLP
 
-### 🎯 My Goal
+---
 
-I'm looking for my first opportunity as a **Junior Data Scientist / Junior ML Specialist**, where I can apply my skills to real-world data, contribute to projects and continue growing professionally.
+## 🚀 Featured Coursework
 
-### 📫 Connect with me
+📊 **Exploratory Data Analysis**  
+Data cleaning, exploration and visualization using Python.
 
-- LinkedIn: www.linkedin.com/in/viktoriia-pohrebniak-63b71b272
-- Location: Sweden 🇸🇪
+🤖 **Machine Learning**  
+Training and evaluating classical machine learning models.
+
+🧠 **Deep Learning**  
+Hands-on coursework with neural networks and deep learning techniques.
+
+> These projects were completed as part of my Data Science & Machine Learning coursework.
+
+---
+
+## 🌱 Currently Learning
+
+Deep Learning • CNN • RNN • Advanced Machine Learning
+
+---
+
+## 🎯 Career Goal
+
+I'm looking for my first opportunity as a **Junior Data Scientist / Junior ML Specialist**,
+where I can apply my skills to real-world data, contribute to projects
+and continue growing professionally.
+
+---
+
+## 📫 Connect with me
+
+📍 Sweden 🇸🇪  
+💼 LinkedIn: www.linkedin.com/in/viktoriia-pohrebniak-63b71b272
+
