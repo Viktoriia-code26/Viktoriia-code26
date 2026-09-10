@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Viktoriia 👋
 
-<!--
-**Viktoriia-code26/Viktoriia-code26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Data Scientist | Python | SQL | Machine Learning
 
-Here are some ideas to get you started:
+I'm currently studying **Data Science & Machine Learning** and building my skills in data analysis, machine learning and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a previous engineering background, which gave me strong analytical thinking, attention to detail and experience working with technical information.
+
+### 🛠 Tech Stack
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- Scikit-learn
+- Machine Learning
+- Data Analysis
+- Git
+- MongoDB
+- Docker
+
+### 📚 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Neural Networks
+- NLP
+
+### 🎯 My Goal
+
+I'm looking for my first opportunity as a **Junior Data Scientist / Junior ML Specialist**, where I can apply my skills to real-world data, contribute to projects and continue growing professionally.
+
+### 📫 Connect with me
+
+- LinkedIn: www.linkedin.com/in/viktoriia-pohrebniak-63b71b272
+- Location: Sweden 🇸🇪
