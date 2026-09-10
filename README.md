@@ -35,21 +35,6 @@ attention to detail and experience working with technical information.
 
 ---
 
-## 🚀 Featured Coursework
-
-📊 **Exploratory Data Analysis**  
-Data cleaning, exploration and visualization using Python.
-
-🤖 **Machine Learning**  
-Training and evaluating classical machine learning models.
-
-🧠 **Deep Learning**  
-Hands-on coursework with neural networks and deep learning techniques.
-
-> These projects were completed as part of my Data Science & Machine Learning coursework.
-
----
-
 ## 🌱 Currently Learning
 
 Deep Learning • CNN • RNN • Advanced Machine Learning
