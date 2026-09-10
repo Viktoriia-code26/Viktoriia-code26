@@ -49,6 +49,16 @@ and continue growing professionally.
 
 ---
 
+## 💻 Previous Development Experience
+
+Before transitioning into Data Science, I completed Fullstack Development
+training and worked on several web development projects.
+
+This experience gave me a foundation in software development, Git,
+databases and working with application code.
+
+---
+
 ## 📫 Connect with me
 
 📍 Sweden 🇸🇪  
